@@ -48,6 +48,8 @@ Control an existing Spotify session without leaving the terminal.
 - [ ] Epic: Terminal UI 
 - [ ] Epic: Web UI
 
+## For Spotify document
+- https://developer.spotify.com/
 ## For Python API & Terminal Application
 - https://github.com/plamere/spotipy
 - https://github.com/marcdjulien/spotify-terminal
