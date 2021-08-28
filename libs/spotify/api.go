@@ -10,7 +10,7 @@ import (
 	"path"
 )
 
-const APIhost = "api.spotify"
+const APIHost = "api.spotify"
 
 type API struct {
 	token string
