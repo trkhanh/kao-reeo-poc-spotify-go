@@ -6,6 +6,6 @@ import(
 	"testing"
 	"time"
 
-	"github.com/trkhanh/kao-reeo-poc-spotify-go/lib"
+	"github.com/trkhanh/kao-reeo-poc-spotify-go/libs/spotify"
 	"github.com/stretchr/testify/require"
 )
