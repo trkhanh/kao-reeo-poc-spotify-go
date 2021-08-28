@@ -47,3 +47,9 @@ Control an existing Spotify session without leaving the terminal.
 - [ ] Story: Dockerize for API Services 
 - [ ] Epic: Terminal UI 
 - [ ] Epic: Web UI
+
+## How to run
+### Mac User 
+- go with run.sh
+### Windown User
+- go with run.ps1
