@@ -40,3 +40,10 @@ Control an existing Spotify session without leaving the terminal.
     <td><code>spotify s</code></td>
   </tr>
 </table>
+
+
+## TO-DO
+- [ ] Story: Dockerize for API
+- [ ] Story: Dockerize for API Services 
+- [ ] Epic: Terminal UI 
+- [ ] Epic: Web UI
