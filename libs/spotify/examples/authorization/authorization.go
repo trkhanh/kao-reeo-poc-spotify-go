@@ -5,8 +5,8 @@ import (
 
 	"github.com/pkg/browser"
 
-	"github.com/brianstrauch/spotify"
-	"github.com/brianstrauch/spotify/examples"
+	"github.com/trkhanh/kao-reeo-poc-spotify-go/libs/spotify"
+	"github.com/trkhanh/kao-reeo-poc-spotify-go/libs/spotify/examples"
 )
 
 const (
