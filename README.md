@@ -10,9 +10,6 @@ Control an existing Spotify session without leaving the terminal.
 - Play and queue songs by name
 - Command aliases and autocompletion
 
-## Installation
-Get the latest version <a href="https://github.com/brianstrauch/spotify-cli/releases/latest">here</a>.
-
 ## Usage
 <img src="https://user-images.githubusercontent.com/7474900/123560711-8eaa5e80-d769-11eb-989f-3f4acb520688.gif" width="50%" />
 
