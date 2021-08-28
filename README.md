@@ -50,6 +50,6 @@ Control an existing Spotify session without leaving the terminal.
 
 ## How to run
 ### Mac User 
-- go with run.sh
+- go with ./scripts/run.sh
 ### Windown User
-- go with run.ps1
+- go with ./scripts/run.ps1
