@@ -15,4 +15,6 @@ func (a *API) Search(q, searchType string, limit int) (*Paging, error) {
 
 	paging := new(Paging)
 	err := a.get("v1", "/search", query, paging)
+
+	return paging, err
 }
